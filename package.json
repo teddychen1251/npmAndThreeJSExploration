@@ -1,0 +1,18 @@
+{
+  "name": "npm-helloworld",
+  "version": "1.0.0",
+  "description": "testing npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Teddy Chen",
+  "license": "ISC",
+  "dependencies": {
+    "three": "^0.108.0"
+  },
+  "devDependencies": {
+    "webpack": "^4.39.3",
+    "webpack-cli": "^3.3.8"
+  }
+}
