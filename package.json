@@ -9,7 +9,7 @@
   "author": "Teddy Chen",
   "license": "ISC",
   "dependencies": {
-    "three": "^0.108.0"
+    "three": "^0.125.0"
   },
   "devDependencies": {
     "webpack": "^4.39.3",
